@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cor_action_bar" type="color">#0288D1</item>
+    <item name="cor_background_listview" type="color">#FFFFFF</item>
+</resources>
